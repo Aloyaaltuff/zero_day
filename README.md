@@ -1,3 +1,3 @@
 # zero day
 ## what is it?
-* zero day is a repositry *
+ _zero day is a repositry_
